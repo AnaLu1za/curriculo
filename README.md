@@ -1,2 +1,2 @@
 # Curriculo
-Aplicação com currículo em html
+Aplicação com curriculo em html
